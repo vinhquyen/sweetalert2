@@ -686,10 +686,10 @@
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
 
-"@sweetalert2/eslint-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@sweetalert2/eslint-config/-/eslint-config-1.0.0.tgz#ed11adbb3ea1a69ce675dd13ec4aa6b0042bed55"
-  integrity sha512-eC+kyFMKEA4yAnUso6g+dapLTR3HvZBsGGwsuL4ZAC2BMcqVURzhBw8MdDQ3LeJtlQbhaeL0ry2xKqXP7tFVwA==
+"@sweetalert2/eslint-config@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@sweetalert2/eslint-config/-/eslint-config-1.0.1.tgz#8ae8613cb1d289b60de22fb9e1efad53eed06cc8"
+  integrity sha512-bpIZ1DrtuPUFAxUbvGloK8uXjuq2q+n/TlalsX/rCq0IDBfJtoJNuag+Onc9/6Etu4CoF8I2AbYnJHhoLuCklg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^2.0.0"
     "@typescript-eslint/parser" "^2.0.0"
