@@ -726,10 +726,10 @@
   dependencies:
     execa "^2.0.0"
 
-"@sweetalert2/stylelint-config@^1.1.5":
-  version "1.1.21"
-  resolved "https://registry.yarnpkg.com/@sweetalert2/stylelint-config/-/stylelint-config-1.1.21.tgz#7a2473e4e91f2acfe9977f666fe9c5418201c8e0"
-  integrity sha512-Dg2m7lH0aCYLUiMpy7wTRE2rVp+8r3ykTjvn4d0WSenZKiyu9z+WwoFO22XC8tmWV9Oe8K6x+UK5gic5g5+wUA==
+"@sweetalert2/stylelint-config@^1.1.23":
+  version "1.1.23"
+  resolved "https://registry.yarnpkg.com/@sweetalert2/stylelint-config/-/stylelint-config-1.1.23.tgz#e98ef59e05827483302d69cececf439a18b87066"
+  integrity sha512-aG1SWcUE7oBJTEZfrLcK6NikV6xHnC/1rbDHCTyHTnRPILTegak8nARu9d/n0R1i/mGnX5iYLFzZn3ObVou4Hw==
   dependencies:
     stylelint-config-property-sort-order-smacss "^5.0.0"
     stylelint-config-standard "^19.0.0"
